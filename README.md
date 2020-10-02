@@ -3,6 +3,8 @@
 
 # Installation and usage to run the code in master branch:
 
+Use Command:  git clone https://github.com/guptagaurav63/My-Cart-App.git   in your visual studio code, then run the below commands to execute the app.
+
 1. cd ecommerce-site
 2. yarn install or npm install
 3. yarn start or npm start
